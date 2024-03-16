@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Lab6.sln
+Lab6/App.config
+Lab6/Lab6.csproj
+Lab6/Properties/AssemblyInfo.cs
